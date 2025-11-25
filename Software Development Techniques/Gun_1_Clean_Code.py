@@ -1,19 +1,22 @@
+# pyright: reportUndefinedVariable=false
+# pyright: reportMissingImports=false
+
 #--------------------CLEAN-CODE-------------------
 #-------------------İÇİNDEKİLER-------------------
 
-# 19 - Clean Code Nedir ?
-# 25 - Clean Code Neden Bu Kadar Önemli ?
-# 44 - Clean Code'un Temel Kuralları
-# 137 - Clean Code Standartı PEP8
-# 171 - Code Teknikleri
-# 173 - Guard Clause
-# 198 - Pure/Impure Fonksiyonlar
-# 260 - Early Return + Narrow Scope
-# 280 - Small Modules, Big Systems
-# 287 - Function Signature Netliği
-# 301 - Refactoring Patterns
-# 303 - Extract Method
-# 354 - Extract Variable
+# 22 - Clean Code Nedir ?
+# 28 - Clean Code Neden Bu Kadar Önemli ?
+# 47 - Clean Code'un Temel Kuralları
+# 140 - Clean Code Standartı PEP8
+# 174 - Code Teknikleri
+# 176 - Guard Clause
+# 201 - Pure/Impure Fonksiyonlar
+# 263 - Early Return + Narrow Scope
+# 283 - Small Modules, Big Systems
+# 290 - Function Signature Netliği
+# 304 - Refactoring Patterns
+# 307 - Extract Method
+# 357 - Extract Variable
 
 #-------------------------------------------------
 # Clean Code Nedir ?
